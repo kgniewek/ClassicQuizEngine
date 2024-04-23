@@ -6,7 +6,6 @@ Simple Quiz Engine is a practice project designed as a quiz system for a larger 
 ### Technologies Used
 - TypeScript: All logic and component structure is initially coded in TypeScript, offering robust typing and better structuring capabilities.
 - JavaScript: TypeScript is transpiled to JavaScript, ensuring compatibility across different browsers.
-- Visual Studio Code: The entire project is developed using Visual Studio Code, leveraging its robust features for coding in TypeScript and managing projects.
 - Local Storage: Utilizes the browser's local storage to save quiz results and settings, allowing persistence of user data across sessions.
 - No CSS: Focuses purely on functionality rather than style, with minimal or no styling involved.
 
