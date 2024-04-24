@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Jakie miasto jest stolicą Francji?",
+        "options": [
+            "Paryż",
+            "Madryt",
+            "Londyn",
+            "Berlin"
+        ],
+        "answer": "Paryż"
+    },
+    {
+        "question": "Który kraj jest największy pod względem powierzchni?",
+        "options": [
+            "Chiny",
+            "Stany Zjednoczone",
+            "Kanada",
+            "Rosja"
+        ],
+        "answer": "Rosja"
+    },
+    {
+        "question": "Jaki jest oficjalny język w Brazylii?",
+        "options": [
+            "Hiszpański",
+            "Portugalski",
+            "Angielski",
+            "Francuski"
+        ],
+        "answer": "Portugalski"
+    },
+    {
+        "question": "Gdzie znajdują się piramidy?",
+        "options": [
+            "Meksyk",
+            "Egipt",
+            "Peru",
+            "Sudan"
+        ],
+        "answer": "Egipt"
+    },
+    {
+        "question": "Jaki jest największy kontynent na świecie?",
+        "options": [
+            "Afryka",
+            "Azja",
+            "Europa",
+            "Ameryka Północna"
+        ],
+        "answer": "Azja"
+    },
+    {
+        "question": "Jak nazywa się najdłuższa rzeka na świecie?",
+        "options": [
+            "Amazonka",
+            "Nil",
+            "Jangcy",
+            "Missisipi"
+        ],
+        "answer": "Nil"
+    },
+    {
+        "question": "Które miasto jest stolicą Australii?",
+        "options": [
+            "Sydney",
+            "Melbourne",
+            "Canberra",
+            "Perth"
+        ],
+        "answer": "Canberra"
+    },
+    {
+        "question": "Gdzie znajduje się Wielki Mur Chiński?",
+        "options": [
+            "Japonia",
+            "Chiny",
+            "Mongolia",
+            "Korea Południowa"
+        ],
+        "answer": "Chiny"
+    },
+    {
+        "question": "Jakie miasto jest stolicą Kanady?",
+        "options": [
+            "Toronto",
+            "Ottawa",
+            "Vancouver",
+            "Montreal"
+        ],
+        "answer": "Ottawa"
+    },
+    {
+        "question": "Który kraj jest znany jako 'Kraina Tysiąca Jezior'?",
+        "options": [
+            "Finlandia",
+            "Szwecja",
+            "Norwegia",
+            "Islandia"
+        ],
+        "answer": "Finlandia"
+    }
+]

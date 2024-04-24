@@ -1,0 +1,13 @@
+#navigation-buttons {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 10px;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+
+#answer-buttons {
+    margin-top: 8px;
+
+}

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Quiz Geograficzny</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div id="quiz-container">
+        <div id="introduction">
+            <h1>Witaj w Quizie Geograficznym!</h1>
+            <p>W tym quizie przetestujesz swoją wiedzę na temat geografii świata. Czy znasz stolice krajów, największe rzeki, góry oraz inne ciekawostki geograficzne? To świetna okazja, aby dowiedzieć się więcej i sprawdzić, co już wiesz!</p>
+            <p>Quiz składa się z kilku pytań wielokrotnego wyboru. Przy każdym pytaniu będziesz miał do wyboru cztery odpowiedzi, z których tylko jedna jest prawidłowa. Możesz poruszać się między pytaniami, przechodząc do następnego lub wracając do poprzedniego, bez konieczności udzielania odpowiedzi na bieżące pytanie.</p>
+            <p>Na zakończenie quizu zobaczysz swój wynik, który pokaże, ile pytań odpowiedziałeś poprawnie. Powodzenia!</p>
+            <button id="start-button">Zacznij</button>
+        </div>
+        
+        <div id="question-container" style="display: none;">
+            <div id="timers">
+                <div id="quiz-timer">Czas od rozpoczęcia quizu: 0:00</div>
+                <div id="question-timer">Czas od rozpoczęcia pytania: 0:00</div>
+            </div>
+            <div id="question-status">
+                <p id="total-questions"></p>
+                <p id="answered-questions"></p>
+                <p id="remaining-questions"></p>
+            </div>            
+            <div id="question"></div>
+            <div id="answer-buttons" class="btn-grid">
+            </div>
+            <div id="navigation-buttons">
+                <button id="previous-button">Poprzednie pytanie</button>
+                <button id="next-button">Następne pytanie</button>
+                <button id="finish-button" style="display: none;">Zakończ</button>
+            </div>
+        </div>
+        <div id="result-container" style="display: none;">
+        </div>
+    </div>
+    <script type="module" src="index.js"></script>
+</body>
+</html>
